@@ -1,10 +1,3 @@
-; Code to test the Sprint Challenge
-;
-; Expected output:
-; 1
-; 4
-; 5
-
 LDI R0,10
 LDI R1,20
 LDI R2,Test1
