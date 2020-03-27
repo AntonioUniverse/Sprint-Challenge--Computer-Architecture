@@ -1,4 +1,4 @@
-
+import sys
 from cpu import CPU
 cpu = CPU()
 
